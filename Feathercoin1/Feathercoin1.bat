@@ -1,0 +1,1 @@
+%_path% -datadir=%~dp0\ -conf=%~dp0feathercoin.conf

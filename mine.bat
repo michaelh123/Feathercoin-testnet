@@ -1,0 +1,1 @@
+%~dp0\cpuminer\minerd.exe --url 127.0.0.1:1501 -a scrypt --userpass ftc:ftc123
